@@ -1,0 +1,45 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "studely",
+    "packageName": "io.studely.jhipster.application",
+    "packageFolder": "io/studely/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.2",
+    "jwtSecretKey": "ODhiMTUzMjUwNzYwMDQxMTYyNGYyNWRmODEyY2U5OTk5MGJmNWVkNzE4MWZhMDEwMjFiODk4ZDNiNDgxM2RjNzc0NTkwZTk4MjM3ZGZkN2EyYTI5YWQ0NTU4MmM3YTUzNDgxYWQ4ODhkMWYyNWZkZmY5NjI4ZDA5MTg0Nzk2NGE=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "amadoux",
+  "repository-name": "jhipster-studely"
+}
